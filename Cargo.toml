@@ -1,0 +1,11 @@
+[package]
+name = "bevy_noisy_modified_asset"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13.2"
+bevy-inspector-egui = "0.24.0"
+thiserror = "1.0.61"
+ron = "0.8.1"
+serde = "1.0.202"
